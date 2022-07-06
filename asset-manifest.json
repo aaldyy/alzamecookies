@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/alzamecookies/static/css/main.4256a972.chunk.css",
+    "main.js": "/alzamecookies/static/js/main.563cf10a.chunk.js",
+    "main.js.map": "/alzamecookies/static/js/main.563cf10a.chunk.js.map",
+    "runtime-main.js": "/alzamecookies/static/js/runtime-main.d65a9157.js",
+    "runtime-main.js.map": "/alzamecookies/static/js/runtime-main.d65a9157.js.map",
+    "static/css/2.22d6b5ec.chunk.css": "/alzamecookies/static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.b6becb44.chunk.js": "/alzamecookies/static/js/2.b6becb44.chunk.js",
+    "static/js/2.b6becb44.chunk.js.map": "/alzamecookies/static/js/2.b6becb44.chunk.js.map",
+    "index.html": "/alzamecookies/index.html",
+    "precache-manifest.ee5bc7486122980dfe9efea1ac19fd25.js": "/alzamecookies/precache-manifest.ee5bc7486122980dfe9efea1ac19fd25.js",
+    "service-worker.js": "/alzamecookies/service-worker.js",
+    "static/css/2.22d6b5ec.chunk.css.map": "/alzamecookies/static/css/2.22d6b5ec.chunk.css.map",
+    "static/css/main.4256a972.chunk.css.map": "/alzamecookies/static/css/main.4256a972.chunk.css.map",
+    "static/js/2.b6becb44.chunk.js.LICENSE.txt": "/alzamecookies/static/js/2.b6becb44.chunk.js.LICENSE.txt",
+    "static/media/Renaldi2.jpg": "/alzamecookies/static/media/Renaldi2.a6b6ff3d.jpg",
+    "static/media/arrow.svg": "/alzamecookies/static/media/arrow.a74212b6.svg",
+    "static/media/logo1ww.svg": "/alzamecookies/static/media/logo1ww.ab983325.svg",
+    "static/media/megawati.jpg": "/alzamecookies/static/media/megawati.38a487a2.jpg",
+    "static/media/megawati1.jpg": "/alzamecookies/static/media/megawati1.f7a6e180.jpg",
+    "static/media/mobile-close.svg": "/alzamecookies/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/alzamecookies/static/media/mobile-menu.10823520.svg",
+    "static/media/preview1.jpg": "/alzamecookies/static/media/preview1.901a3a43.jpg",
+    "static/media/preview2.jpg": "/alzamecookies/static/media/preview2.a9c56a6e.jpg",
+    "static/media/preview3.png": "/alzamecookies/static/media/preview3.be72266a.png",
+    "static/media/preview4.png": "/alzamecookies/static/media/preview4.64aa6131.png",
+    "static/media/preview5.png": "/alzamecookies/static/media/preview5.981f98ec.png",
+    "static/media/preview6.jpg": "/alzamecookies/static/media/preview6.3941becc.jpg",
+    "static/media/sss.jpg": "/alzamecookies/static/media/sss.b41e59d3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d65a9157.js",
+    "static/css/2.22d6b5ec.chunk.css",
+    "static/js/2.b6becb44.chunk.js",
+    "static/css/main.4256a972.chunk.css",
+    "static/js/main.563cf10a.chunk.js"
+  ]
+}
