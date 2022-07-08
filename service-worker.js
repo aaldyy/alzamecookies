@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alzamecookies/precache-manifest.ee5bc7486122980dfe9efea1ac19fd25.js"
+  "/alzamecookies/precache-manifest.2c39766701af78a93c0125b137be56a5.js"
 );
 
 self.addEventListener('message', (event) => {
